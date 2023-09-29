@@ -7,8 +7,7 @@ Installing Vulkanizer is pretty easy. Before anything else, check if your graphi
 <h2>🔥 Performance</h2> 
 
 * i7-12700k/Nvidia GTX 1660ti (<a href="https://cdn.discordapp.com/attachments/1014249566176022590/1155582874028884100/image.png">Vanilla</a>: 390fps | <a href="https://cdn.discordapp.com/attachments/1014249566176022590/1155583721202778242/image.png">Vulkanizer: </a> 1057fps)
-<br>
-*  i7-1165G7/Intel Xe graphics (<a href="https://steamuserimages-a.akamaihd.net/ugc/2094793997884427999/8CC928E4A293D8D81E66F7777087303985B0B693/
+* i7-1165G7/Intel Xe graphics (<a href="https://steamuserimages-a.akamaihd.net/ugc/2094793997884427999/8CC928E4A293D8D81E66F7777087303985B0B693/
 ">Vanilla</a>: 43fps | <a href="https://steamuserimages-a.akamaihd.net/ugc/2094793997884428839/2A8FA4CE7E84BFE816941FB092EB4D5FD6951525/">Vulkanizer</a>: 117fps)
 <br>
 This area is work in progress!
